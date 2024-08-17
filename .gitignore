@@ -1,0 +1,8 @@
+build/
+node_modules/
+#uploads/
+.vscode/
+#bin/
+package-lock.json
+public/js
+bin
